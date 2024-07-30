@@ -39,3 +39,6 @@ While the neural network performed well, a Random Forest Classifier could be use
 
 Conclusion
 This analysis demonstrates the utility of a neural network model in predicting the success of funding applicants for the Alphabet Soup Foundation. By leveraging historical data and advanced machine learning techniques, the foundation can enhance its selection process, ensuring that funds are allocated to the most promising ventures.
+
+
+Garnered help from Chat Gpt and class notes.
