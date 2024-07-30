@@ -1,5 +1,6 @@
 Alphabet Soup: Predicting Successful Funding Applicants with a Neural Network Model
 Introduction
+
 The goal of this analysis is to create a binary classifier that predicts whether applicants for funding from the Alphabet Soup Foundation will be successful in their ventures. This classifier will help the foundation select applicants with the highest chance of success, thereby optimizing the impact of their funding efforts. Using a dataset of past applicants, we will preprocess the data, build a neural network model, and evaluate its performance.
 
 Data Preprocessing
